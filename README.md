@@ -14,8 +14,7 @@ Une application de gestion de mots de passe sécurisée développée en Python, 
 
 - Python 3.x
 - SQLite
-- pycryptodome
-- Tkinter/PyQt
+- colorama
 
 ## 🔒 Sécurité
 
@@ -39,7 +38,8 @@ Une application de gestion de mots de passe sécurisée développée en Python, 
 
 ## 🛣️ Feuille de Route
 
-- Phase 1: Conception (du 12-01-2025 au ...)
+- Phase 1: Conception (du 12-01-2025 au 14-01-2025)
+- Phase 2: Developpement (du 15-01-2025 au ...)
 
 ## 📝 License
 
