@@ -40,6 +40,10 @@ Une application de gestion de mots de passe sécurisée développée en Python, 
 
 - Phase 1: Conception (du 12-01-2025 au 14-01-2025)
 - Phase 2: Developpement (du 15-01-2025 au ...)
+   
+          - Creation du main (Le 15-01-2025)
+  
+          - Creation du systeme de creation de compte /!\ Aucune securite pour le moment /!\ (Le 15-01-2025)
 
 ## 📝 License
 
